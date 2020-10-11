@@ -1,7 +1,7 @@
 # Workout Tracker
 UCI Boot Camp Homework 17 - Workout Tracker
 
-Click [here]() to open deployed Heroku application.
+Click [here](https://workout-tracker-maxx.herokuapp.com/) to open deployed Heroku application.
 
 ![deployed application](public/assets/img/deployed_app.JPG)
 
@@ -23,7 +23,7 @@ Click [here]() to open deployed Heroku application.
 * It requires node.js to run it.
 
 ## Usage 
-If using from the Heroku deployed application, just go to the deployed application's [link](). Start by clicking 'New Workout' to create a workout. You can choose between 'Cardio' or 'Resistance' and you can then fill in the necessary information for that workout. Once you submit it, you can go back to the home page by clicking 'Fitness Tracker' in the upper left. You can either create a new workout, click 'Continue Workout' which will allow you to edit the last workout (which is displayed on the home page), OR you can click 'Dashboard' in the upper left corner which will bring you to stats page which shows various charts to display your first 5 workouts. If running off a local server, first do an npm install then run the server by running the "node server.js" command in a gitbash terminal. Then navigate to a browser and go to http://localhost:3000/ to render it.
+If using from the Heroku deployed application, just go to the deployed application's [link](https://workout-tracker-maxx.herokuapp.com/). Start by clicking 'New Workout' to create a workout. You can choose between 'Cardio' or 'Resistance' and you can then fill in the necessary information for that workout. Once you submit it, you can go back to the home page by clicking 'Fitness Tracker' in the upper left. You can either create a new workout, click 'Continue Workout' which will allow you to edit the last workout (which is displayed on the home page), OR you can click 'Dashboard' in the upper left corner which will bring you to stats page which shows various charts to display your first 5 workouts. If running off a local server, first do an npm install then run the server by running the "node server.js" command in a gitbash terminal. Then navigate to a browser and go to http://localhost:3000/ to render it.
 
 ## License 
  ISC
